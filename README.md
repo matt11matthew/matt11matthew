@@ -57,6 +57,15 @@ I'm a full-time software engineer in the defense sector and a freelance develope
 - **[SkyBlockCore](https://github.com/matt11matthew/SkyBlockCore)** – Modular SkyBlock framework  
   A performance-oriented SkyBlock system with island chunk control, GUI-based interaction, and modular component architecture. Built for future expansion and server-wide integration.
 
+### Discord Bots:
+- **[Wait time tracker](https://github.com/Universal-Wait-Times/UniversalAPI)** – Universal Studios Wait time tracker
+  A restful api which interfaces with API links to track virtual queues & ride alerts.
+
+### Minecraft Mods:
+- **[Dungeon Realms Enhanced Mod](https://github.com/Universal-Wait-Times/UniversalAPI)** – Server enhancement mod
+  Over 3,000 downloads https://www.curseforge.com/minecraft/mc-mods/dungeonrealms-enhanced
+  This mod improves player experience on play.dungeonrealms.net the mod is similar to many of the Wynncraft enhancement mods.
+   
 - *(Private Plugin Projects)*  
   I’ve delivered hundreds of custom plugins including:  
   - **Economy Systems**  
@@ -70,7 +79,7 @@ I'm a full-time software engineer in the defense sector and a freelance develope
 ## Contact
 Looking to commission a plugin or need backend support?
 
-🌐 Portfolio: **[https://matthewe.me](https://matthewe.me)**  
+🌐 Portfolio: **[https://matthewe.me](https://matthewe.me)**  IN PROGRESS
 📁 GitHub: **[github.com/matt11matthew](https://github.com/matt11matthew)**  
 
 ---
