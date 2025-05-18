@@ -62,7 +62,7 @@ I'm a full-time software engineer in the defense sector and a freelance develope
   A restful api which interfaces with API links to track virtual queues & ride alerts.
 
 ### Minecraft Mods:
-- **[Dungeon Realms Enhanced Mod](https://github.com/Universal-Wait-Times/UniversalAPI)** – Server enhancement mod
+- **[Dungeon Realms Enhanced Mod](https://github.com/dungeonrealmsenhanced/DungeonRealmsEnhancedMod)** – Server enhancement mod
   Over 3,000 downloads https://www.curseforge.com/minecraft/mc-mods/dungeonrealms-enhanced
   This mod improves player experience on play.dungeonrealms.net the mod is similar to many of the Wynncraft enhancement mods.
    
