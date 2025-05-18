@@ -1,7 +1,7 @@
 # Matthew E. – Freelance Software Engineer & Plugin Developer
 
 ## About
-I'm a full-time software engineer in the defense sector and a freelance developer with over 10 years of experience, specializing in Minecraft plugin development and backend systems. Since 2014, I’ve completed over **800** plugin commissions for clients around the world—delivering custom minigames, server systems, and backend tools. I focus on performance, clean architecture, and scalability.
+I'm a full-time software engineer in the defense sector and a freelance developer with over 10 years of experience, specializing in Minecraft plugin development and backend systems. Since 2014, I’ve completed over **800** plugin commissions for clients around the world—delivering custom minigames, server systems, and backend tools. I focus on performance, clean architecture, and scalability. I am based out of the United States. 
 
 ## Highlights
 - ✅ **800+ plugin commissions** completed since 2014  
@@ -30,8 +30,8 @@ I'm a full-time software engineer in the defense sector and a freelance develope
 **Premier Studios – Application Manager**  
 2020–Present  
 - Reviewed and onboarded 30+ freelance plugin developers  
-- Supported client commissions with over $5,000 in revenue during 2024  
-- Helped maintain development quality and team tools  
+- Supported client commissions with over $5,000 in revenue during 2024
+- Over 50 successfully completed commissions all with 5-star ratings.
 
 **Freelance Plugin Developer**  
 2014–Present  
@@ -81,6 +81,7 @@ Looking to commission a plugin or need backend support?
 
 🌐 Portfolio: **[https://matthewe.me](https://matthewe.me)**  IN PROGRESS
 📁 GitHub: **[github.com/matt11matthew](https://github.com/matt11matthew)**  
+🚀 Discord **.matthewe** Feel free to message me anytime. 
 
 ---
 🧠 Performance. 🛠️ Precision. 🚀 Delivered.
