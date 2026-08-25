@@ -1,22 +1,22 @@
-# Matthew E. – Freelance Software Engineer & Plugin Developer
+# Matthew E. – Software Engineer & Plugin Developer
 
 ## About
-I'm a full-time software engineer in the defense sector and a freelance developer with over 10 years of experience, specializing in Minecraft plugin development and backend systems. Since 2014, I’ve completed over **800** plugin commissions for clients around the world—delivering custom minigames, server systems, and backend tools. I focus on performance, clean architecture, and scalability. I am based out of the United States. 
+I'm a full-time software engineer in the defense sector and a freelance developer with over 10 years of experience, specializing in Minecraft plugin development and backend systems. Since 2014, I’ve completed over **900** plugin commissions for clients around the world—delivering custom minigames, server systems, and backend tools. I focus on performance, clean architecture, and scalability. I am based out of the United States. 
 
 ## Highlights
-- ✅ **800+ plugin commissions** completed since 2014  
-- 💼 Full-time software engineer in the **defense industry**, building simulation and telemetry backends  
-- 💰 Creator of **AtherialLib**, a Java SDK that has driven **$80,000+** in freelance revenue  
-- 🧱 Active member of the **DevRoom freelance team** since 2023, focused on professional plugin delivery  
-- 🧠 Application manager at Premier Studios, helped onboard 30+ plugin developers  
-- 🔧 Experienced with Java, Redis, Spring Boot, MongoDB, Docker, and CI/CD (Bamboo)  
+-  **900+ plugin commissions** completed since 2015  
+-  Full-time software engineer in the **defense industry**, building simulation and telemetry backends  
+-  Creator of **AtherialLib**, a Java SDK that has driven **$80,000+** in freelance revenue  
+-  Active member of the **DevRoom freelance team** since 2023, focused on professional plugin delivery  
+-  Application manager at Premier Studios, helped onboard 30+ plugin developers  
+-  Experienced with Java, Redis, Spring Boot, MongoDB, Docker, and CI/CD (Bamboo)  
 
 ## Skills & Technologies
 - **Languages:** Java, C++, Python, TypeScript, SQL  
 - **Minecraft Plugin APIs:** Spigot, Paper, Bukkit, BungeeCord, Brigadier  
 - **Backend Systems:** Spring Boot, Redis, MongoDB, MySQL, Docker, Maven  
-- **DevOps Tools:** Bamboo CI/CD, Harbor, Nexus, Git, WSL, Linux  
-- **Frontend / Visualization:** React, CesiumJS, Unity3D  
+- **DevOps Tools:** Bamboo CI/CD, Harbor, Nexus, Git, WSL, Linux, Kubernetes   
+- **Frontend / Visualization:** React, CesiumJS, Unity3D, Tailwind 
 
 ## Work History
 
@@ -48,11 +48,11 @@ I'm a full-time software engineer in the defense sector and a freelance develope
 
 ## Featured Projects
 
-### 🧩 Plugin Development Projects
+### Plugin Development Projects
 
 - **[AtherialLib](https://github.com/matt11matthew/AtherialLib)** – Modular plugin SDK  
   A powerful Java library designed to streamline Minecraft plugin development. Features include custom event frameworks, NBT tools, task schedulers, and internal caching layers.  
-  💼 Used across dozens of projects, with **$80,000+** generated in freelance revenue.
+  Used across dozens of projects, with **$80,000+** generated in freelance revenue.
 
 - **[SkyBlockCore](https://github.com/matt11matthew/SkyBlockCore)** – Modular SkyBlock framework  
   A performance-oriented SkyBlock system with island chunk control, GUI-based interaction, and modular component architecture. Built for future expansion and server-wide integration.
@@ -79,9 +79,9 @@ I'm a full-time software engineer in the defense sector and a freelance develope
 ## Contact
 Looking to commission a plugin or need backend support?
 
-🌐 Portfolio: **[https://matthewe.me](https://matthewe.me)**  IN PROGRESS
-📁 GitHub: **[github.com/matt11matthew](https://github.com/matt11matthew)**  
-🚀 Discord **.matthewe** Feel free to message me anytime. 
+ Portfolio: **[https://matthewe.me](https://matthewe.me)**  IN PROGRESS
+ GitHub: **[github.com/matt11matthew](https://github.com/matt11matthew)**  
+ Discord **.matthewe** Feel free to message me anytime. 
 
 ---
-🧠 Performance. 🛠️ Precision. 🚀 Delivered.
+
